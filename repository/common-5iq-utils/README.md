@@ -4,10 +4,13 @@ My personal maven repository.
 ## Usage
 pom.xml:
 ```xml
-    <repositories>
-        <repository>
-            <id>hengyunabc-maven-repo</id>
-            <url>https://github.com/zhijun0808/common-5iq-utils/master/repository</url>
-        </repository>
-    </repositories>
+<dependencies>
+
+        <dependency>
+            <groupId>org.common-5iq</groupId>
+            <artifactId>common-5iq-utils</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+    </dependencies>
 ```
