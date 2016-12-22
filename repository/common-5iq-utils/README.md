@@ -7,7 +7,7 @@ pom.xml:
     <repositories>
         <repository>
             <id>hengyunabc-maven-repo</id>
-            <url>https://raw.githubusercontent.com/zhijun0808/maven-repo/master/repository</url>
+            <url>https://github.com/zhijun0808/common-5iq-utils/master/repository</url>
         </repository>
     </repositories>
 ```
