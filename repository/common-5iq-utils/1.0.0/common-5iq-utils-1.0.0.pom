@@ -12,13 +12,8 @@
 
     <groupId>org.common-5iq</groupId>
     <artifactId>common-5iq-utils</artifactId>
+    <version>1.0.0</version>
 
-    <distributionManagement>
-        <repository>
-            <id>allen-mvn-repo</id>
-            <url>E:/common-5iq/utils/target</url>
-        </repository>
-    </distributionManagement>
 
 
 </project>
