@@ -11,3 +11,12 @@ pom.xml:
         </repository>
     </repositories>
 ```
+
+```
+        <dependency>
+            <groupId>org.common-5iq</groupId>
+            <artifactId>common-5iq-utils</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+```
